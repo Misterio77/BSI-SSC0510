@@ -1,5 +1,11 @@
 # Trabalho - Arquitetura RISC-V
 
+- Enzo Bustamante, 9863437
+- Gabriel Fontes, 10856803
+- Giovanna Fardini, 10260671
+- Thales Damasceno, 11816150
+- Vinicius Baca, 10788589
+
 ## Introdução
 
 - Arquitetura RISC - _load/store_; 
