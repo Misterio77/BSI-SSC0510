@@ -1,5 +1,7 @@
 # Trabalho - Arquitetura RISC-V
 
+Vídeo do trabalho aqui (Esperando drive processar o upload)
+
 - Enzo Bustamante, 9863437
 - Gabriel Fontes, 10856803
 - Giovanna Fardini, 10260671
